@@ -4,6 +4,12 @@ Vous devez implémenter le système de pagination vu en cours.
 
 ![gif](example.gif "Demo")
 
+## Setup
+
+`npm i`
+`npm run dev`
+Aller sur http://localhost:1234
+
 ## Consignes
 
 - Créer de layout avec materialize
